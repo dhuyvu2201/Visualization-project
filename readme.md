@@ -4,7 +4,9 @@
 
 Chủ đề: Crawl data và trực quan hóa (Nhóm)
 Ngôn ngữ : Python
+
 **Nội dung**
+
 1. Craw data
     - Crawl data truyện tranh tại nettruyenonline.com vào 09/01/2022
     - https://github.com/dhuyvu2201/Visualization-project/blob/master/Code/crawler.ipynb
