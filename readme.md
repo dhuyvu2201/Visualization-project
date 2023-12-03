@@ -15,20 +15,20 @@ Ngôn ngữ : Python
 2. Visualize
 
     - Fun fact - Simple text
-    ![Alt text](image.png)
+    ![Alt text](Image/image.png)
 
     - Tổng quan mỗi liên hệ giữa số lượt xem và tổng số truyện mỗi thể loại
-    ![Alt text](image-1.png)
+    ![Alt text](Image/image-1.png)
     => Nhận thấy rằng tất cả các thể loại có số lượt xem hầu hết đều dưới 200.000 lượt trong đó
 
     - Trung bình số lượt xem 
     
         Trung bình là 58628
-        ![Alt text](image-2.png)
+        ![Alt text](Image/image-2.png)
 
     - Thể loại ít truyện nhưng nhiều lượt xem nhất.
-    ![Alt text](image-3.png)
+    ![Alt text](Image/image-3.png)
 
     - Thể loại có nhiều truyện nhưng ít lượt xem
-    ![Alt text](image-4.png)
+    ![Alt text](Image/image-4.png)
 
